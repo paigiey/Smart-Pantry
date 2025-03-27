@@ -1,4 +1,4 @@
-Smart Pantry
+## Smart Pantry
 Smart Pantry is an interactive R Shiny application designed to reduce food waste by helping users discover recipes based on the ingredients they already have at home. By combining ingredient-based filtering, nutritional data, and dynamic visualization, this app provides an intuitive and practical tool for home cooks.
 
 Project Highlights
